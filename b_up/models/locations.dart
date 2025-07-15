@@ -1,0 +1,66 @@
+// import 'package:jadecandyv1/models/Gallery/GalleryData/reviews.dart';
+//
+// import '../model/location.dart';
+//
+// List<Location> locations = [
+//   Location(
+//     name: 'JADECANDY',
+//     urlImage: 'https://www.instagram.com/p/C5tmQ7dx0C5/media/?size=l',
+//     addressLine1: 'La Cresenta-Montrose, CA91020 Glendale',
+//     addressLine2: 'NO. 791187',
+//     starRating: 4,
+//     latitude: 'NORTH LAT 24',
+//     longitude: 'EAST LNG 17',
+//     reviews: Reviews.allReviews,
+//   ),
+//   Location(
+//     name: 'JADECANDY',
+//     urlImage: 'https://www.instagram.com/p/C5OtieuRZ4e/media/?size=l',
+//     addressLine1: 'La Cresenta-Montrose, CA91020 Glendale',
+//     addressLine2: 'NO. 11641',
+//     starRating: 4,
+//     latitude: 'SOUTH LAT 14',
+//     longitude: 'EAST LNG 27',
+//     reviews: Reviews.allReviews,
+//   ),
+//   Location(
+//     name: 'JADECANDY',
+//     urlImage: 'https://www.instagram.com/p/CwBIKcrJUiR/media/?size=l',
+//     addressLine1: 'La Cresenta-Montrose, CA91020 Glendale',
+//     addressLine2: 'NO. 791187',
+//     starRating: 4,
+//     latitude: 'NORTH LAT 24',
+//     longitude: 'WEST LNG 08',
+//     reviews: Reviews.allReviews,
+//   ),
+//   Location(
+//     name: 'JADECANDY',
+//     urlImage: 'https://www.instagram.com/p/CxI9MNeAt5m/media/?size=l',
+//     addressLine1: 'La Cresenta-Montrose, CA91020 Glendale',
+//     addressLine2: 'NO. 791187',
+//     starRating: 4,
+//     latitude: 'SOUTH LAT 39',
+//     longitude: 'WEST LNG 41',
+//     reviews: Reviews.allReviews,
+//   ),
+//   Location(
+//     name: 'JADECANDY',
+//     urlImage: 'https://www.instagram.com/p/CyOvps8Rg9D/media/?size=l',
+//     addressLine1: 'La Cresenta-Montrose, CA91020 Glendale',
+//     addressLine2: 'NO. 791187',
+//     starRating: 4,
+//     latitude: 'SOUTH LAT 39',
+//     longitude: 'WEST LNG 41',
+//     reviews: Reviews.allReviews,
+//   ),
+//   Location(
+//     name: 'JADECANDY',
+//     urlImage: 'https://www.instagram.com/p/Cwt2q-cs06T/media/?size=l',
+//     addressLine1: 'La Cresenta-Montrose, CA91020 Glendale',
+//     addressLine2: 'NO. 791187',
+//     starRating: 4,
+//     latitude: 'SOUTH LAT 39',
+//     longitude: 'WEST LNG 41',
+//     reviews: Reviews.allReviews,
+//   ),
+// ];
