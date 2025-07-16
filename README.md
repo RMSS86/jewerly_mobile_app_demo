@@ -17,7 +17,7 @@ don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/
 
 <p>
   <img src='https://github.com/user-attachments/assets/3d8c310c-85ad-4ce5-9649-3d5bed3abc57' />
-  <img src='https://github.com/user-attachments/assets/341cafa8-15bb-4d63-bb11-b39e07bdaea0' />
+  <video src='https://github.com/user-attachments/assets/341cafa8-15bb-4d63-bb11-b39e07bdaea0' />
 </p>
 
 ![Screenshot_2025-07-15-09-53-04-099_com example jadecandy jadecandyv1](https://github.com/user-attachments/assets/3d8c310c-85ad-4ce5-9649-3d5bed3abc57)
