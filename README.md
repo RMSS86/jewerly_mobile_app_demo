@@ -16,8 +16,8 @@ don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/
 ### UI ScreenShots
 
 <p>
-  <img src='https://github.com/user-attachments/assets/3d8c310c-85ad-4ce5-9649-3d5bed3abc57' width=50%  heigth=50%/>
+  <img src='https://github.com/user-attachments/assets/3d8c310c-85ad-4ce5-9649-3d5bed3abc57' width=50%  height=50%/>
   <img src='https://github.com/user-attachments/assets/2d07cf02-65f5-41ab-9e48-39e73b7f6fee' width=50% />
-  <video src='https://github.com/user-attachments/assets/341cafa8-15bb-4d63-bb11-b39e07bdaea0' />
+  
 </p>
-
+<video src='https://github.com/user-attachments/assets/341cafa8-15bb-4d63-bb11-b39e07bdaea0' />
