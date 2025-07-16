@@ -15,17 +15,3 @@ don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/
 
 
 ### UI ScreenShots
-![Screenshot_2025-07-15-09-53-04-099_com.example.jadecandy.jadecandyv1.jpg](assets/demo/Screenshot_2025-07-15-09-53-04-099_com.example.jadecandy.jadecandyv1.jpg)
-![OptimizedCubeLogo_plus_Letters_A.png](assets%2Fecommerce%2FOptimizedCubeLogo_plus_Letters_A.png)
-
-### Asset selector before camera
-[Screenrecorder-2025-07-15-09-55-25-555.mp4](assets/demo/Screenrecorder-2025-07-15-09-55-25-555.mp4)
-![ArtPage.jpeg](..%2Fassets%2FScreenShots%2FArtPage.jpeg)
-
-![1752595281839.jpg](assets/demo/1752595281839.jpg)
-![ARPage FrontCamera.jpeg](..%2Fassets%2FScreenShots%2FARPage%20FrontCamera.jpeg)
-![Screenshot_2025-07-15-09-53-13-341_com.example.jadecandy.jadecandyv1.jpg](assets/demo/Screenshot_2025-07-15-09-53-13-341_com.example.jadecandy.jadecandyv1.jpg)
-![ArtPage JadeModel.jpeg](..%2Fassets%2FScreenShots%2FArtPage%20JadeModel.jpeg) 
-![Screenshot_2025-07-15-09-53-19-422_com.example.jadecandy.jadecandyv1.jpg](assets/demo/Screenshot_2025-07-15-09-53-19-422_com.example.jadecandy.jadecandyv1.jpg)
-![GalleryPage.jpeg](..%2Fassets%2FScreenShots%2FGalleryPage.jpeg)
-![HotPicks.jpeg](..%2Fassets%2FScreenShots%2FHotPicks.jpeg)
