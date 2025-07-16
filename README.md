@@ -6,11 +6,15 @@ for compatibility purposes make sure to update Flutter / Gradle version accordin
 don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/p/C5tmQ7dx0C5/#
 ## Under construction
 
-stack 
+##stack 
 <p align='center'>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=dart,flutter,firebase,gradle,ai,blender />
+    <img src='https://skillicons.dev/icons?i=dart,flutter,firebase,gradle,ai,blender' />
   </a>
 </p> 
 
 ### UI ScreenShots
+<p>
+![Screenshot_2025-07-15-09-53-04-099_com example jadecandy jadecandyv1](https://github.com/user-attachments/assets/3d8c310c-85ad-4ce5-9649-3d5bed3abc57)
+https://github.com/user-attachments/assets/341cafa8-15bb-4d63-bb11-b39e07bdaea0
+</p>
