@@ -16,15 +16,15 @@ don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/
 
 > UI ScreenShots
 <kbd>
-<p>
+<p  align='center'>
   <img src='https://github.com/user-attachments/assets/3d8c310c-85ad-4ce5-9649-3d5bed3abc57' width=45% />
   <img src='https://github.com/user-attachments/assets/2d07cf02-65f5-41ab-9e48-39e73b7f6fee' width=45% />
 </p>
-  <p>
+  <p  align='center'>
   <img src='https://github.com/user-attachments/assets/eaadc104-3cdc-48c0-bd61-4be51016a6bc' width=45% />
   <img src='https://github.com/user-attachments/assets/8194ba04-607b-4974-9434-d6d881fb162b' width=45% />
   </p>
-  <p>
+  <p  align='center'>
       <img src='https://github.com/user-attachments/assets/efed630d-0043-47b4-a5c4-4209367b2a6b' width=45% />
   <img src='https://github.com/user-attachments/assets/0421f469-f868-4cb3-b1f0-476d4de95ab6' width=45% />
   </p>
