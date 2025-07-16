@@ -1,9 +1,9 @@
 # Jewelry demo App
 ## This demo app bases reference on an existing app prototype and registered brand. 
-### please feel free to create your own version of this app, make sure to replace all assets for yours to prevent copyright issues,
-### also feel free to implement ARKit for iOS if required and the 3D assets used on this demo aren't mine, it was taken from www.sketchfab.com
-### for compatibility purposes make sure to update Flutter / Gradle version accordingly, check out the pubspec.yaml for details
-### don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/p/C5tmQ7dx0C5/#
+please feel free to create your own version of this app, make sure to replace all assets for yours to prevent copyright issues,
+also feel free to implement ARKit for iOS if required and the 3D assets used on this demo aren't mine, it was taken from www.sketchfab.com
+for compatibility purposes make sure to update Flutter / Gradle version accordingly, check out the pubspec.yaml for details
+don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/p/C5tmQ7dx0C5/#
 ## Under construction
 
 ## Stack
