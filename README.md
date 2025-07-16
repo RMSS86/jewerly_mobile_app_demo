@@ -29,6 +29,6 @@ don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/
   <img src='https://github.com/user-attachments/assets/0421f469-f868-4cb3-b1f0-476d4de95ab6' width=45% />
   </p>
   </kbd>
-  <p  align='center'>
+  <div  align='center'>
 <video src='https://github.com/user-attachments/assets/341cafa8-15bb-4d63-bb11-b39e07bdaea0' />
-</p>
+</ddiv>
