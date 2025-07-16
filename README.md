@@ -7,11 +7,11 @@ don't forget to follow our guest StrawBerry & Jades @ https://www.instagram.com/
 ## Under construction
 
 ## Stack
+
 <p align='center'>
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=dart,flutter,firebase,gradle,ai,blender/>
   </a>
 </p>
-
 
 ### UI ScreenShots
